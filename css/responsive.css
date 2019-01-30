@@ -1,0 +1,228 @@
+
+
+/* 1199 */
+
+@media screen and (max-width: 1199.5px) {
+	.header-mid .hover-banner{
+		left: 2%;
+	}
+	.box1-tab-content .img-left-tabcontent .img-top-top{
+		width: 200px;
+		height: 130px;
+	}
+	.main-mid-number .number-text-mid span{
+		font-size: 17px;
+	}
+	.footer-top .footer-top-left .list-mxh ul li{
+		padding: 0px 10px;
+	}
+	.images-top-right img{
+		height: auto;
+	}
+}
+
+/* 991 */
+
+@media screen and (max-width: 991.5px) {
+	.header-mid .hover-banner{
+		padding: 15px 20px;
+	}
+	.header-mid img{
+		height: 300px;
+	}
+	.header-top .menu-header ul li a{
+		padding-left: 9px;
+	}
+	.box1-tab-content{
+		display: block;
+	}
+	.img-left-tabcontent{
+		text-align: left;
+	}
+	.box1-tab-content .text-address-tabcontent{
+		padding-left: 0;
+		padding-top: 20px	;
+	}
+	.box1-tab-content .img-left-tabcontent .img-top-top{
+		width: 100%;
+		height: auto;
+	}
+	.main-mid-number .number-text-mid{
+		margin-bottom: 30px;
+	}
+	.footer-top:before{
+		display: none;
+	}
+	.footer-bottom{
+		background-color: #333333;
+	}
+	.footer-top .list-footer-mid{
+		margin-top: 30px;
+	}
+	.details-img-tt .img-text-cd-top{
+		display: block;
+	}
+	.details-img-tt .img-text-cd-top .text-tt-ls-cd{
+		padding-left: 0px;
+		padding-top: 10px;
+	}
+	.details-img-tt .list-next-tab-details ul li a{
+		width: 150px;
+	}
+	.details-img-tt .list-next-tab-details{
+		    margin: 30px 0px 0px 0px;
+	}
+}
+
+/* 767 */
+
+@media screen and (max-width: 767.5px) {
+	.details-img-tt .list-next-tab-details ul li a{
+		width: 100%;
+		display: block;
+	}
+	.details-img-tt .list-next-tab-details ul li{
+		padding: 5px;
+		display: block;
+	}
+	.details-img-tt .img-text-cd-top .img-left-cd img{
+		width: 100%;
+		height: auto;
+	}
+	.details-img-tt .img-text-cd-top .text-tt-ls-cd ul li{
+		padding: 5px 0px;
+	}
+	.text-form-input-details{
+		margin-top: 20px;
+	}
+	.category-main-top{
+		margin-top: 20px;
+	}
+	.site_bar-left , .details-img-tt .content-tab-details-text .text-bottom-content-last{
+		margin-top: 30px;
+	}
+	.category-main-top .select-siter-bar-cateogry{
+		margin-bottom: 20px;
+	}
+	.box1-tab-content .list-bottom-box1-tab ul li{
+		display: block;
+		padding: 5px 0px;
+	}
+	.box1-tab-content .list-bottom-box1-tab , .category-main-top .select-siter-bar-cateogry{
+		text-align: left;
+	}
+	.images-top-right{
+		margin-top: 40px;
+		margin-bottom: 0;
+	}
+	.main-what-top form .select-group{
+		margin-top: 0;
+	}
+	.lable-select{
+		margin-bottom: 20px;
+	}
+	.header-top .menu-header{
+		display: none;
+	}
+	.header-top{
+		height: 50px;
+	}
+	.header-top .logo-header{
+		text-align: center;
+		padding-top: 12px;
+	}
+	.header-mid .hover-banner{
+		left: 5%;
+		width: 90%;
+	}
+	.header-mid img{
+		object-fit: cover;
+	}
+	.main-top-slide{
+		margin-top: 20px;
+	}
+	.title-main h2{
+		font-size: 20px;
+	}
+	.main-mid-number{
+		margin-top: 50px;
+	}
+	.main-bottom-tab{
+		margin-top: 10px;
+	}
+	.main-bottom-tab .list-search ul li{
+		padding: 5px;
+		display: block;
+	}
+	.main-bottom-tab .list-search{
+		margin-bottom: 20px;
+	}
+	.main-bottom-tab .list-search ul li a{
+		width: 80%;
+		margin:  0 auto;
+	}
+	.footer-top .footer-top-left .list-mxh ul li{
+		padding: 5px 5px;
+	}
+	.footer-bottom ul{
+		display: none;
+		overflow: hidden;
+	}
+	.icon-mobile , .search-mobile{
+		display: block !important;
+	}
+	.full-search .input-search{
+		width: 80%;
+		margin: 50% auto;
+	}
+	.full-search .input-search {
+		position: relative;
+	}
+	.full-search .input-search input{
+		font-size: 12px;
+		width: calc(100% - 0px);
+	}
+	.full-search .input-search button{
+		font-size: 16px;
+		width: 70px;
+		position: absolute;
+		top: 0;
+		right: 0;
+		border: 0;
+	}
+	.full-search .times-search{
+		top: 20px;
+		right: 20px;
+	}
+	.row-ss{
+		width: 100%;
+		display: flex;
+		flex-flow: row wrap;
+		margin: auto;
+	}
+	.col-ss{
+		  order: 2;
+	}
+	.details-img-tt .list-next-tab-details ul li .active:after{
+		display: none;
+	}
+}
+
+/* 450 */
+
+@media screen and (max-width: 450px) {
+	
+}
+
+
+/* 360 */
+
+@media screen and (max-width: 360.5px) {
+	
+}
+
+/* 320 */
+
+@media screen and (max-width: 320.5px) {
+	
+}
